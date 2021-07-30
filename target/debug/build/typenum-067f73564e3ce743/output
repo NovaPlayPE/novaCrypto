@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\gebab\Desktop\WallServer\rust\novaCrypto\target\debug\build\typenum-067f73564e3ce743\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\gebab\Desktop\WallServer\rust\novaCrypto\target\debug\build\typenum-067f73564e3ce743\out\op.rs

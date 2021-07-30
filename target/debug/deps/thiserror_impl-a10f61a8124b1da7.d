@@ -1,0 +1,11 @@
+C:\Users\gebab\Desktop\WallServer\rust\novaCrypto\target\debug\deps\thiserror_impl-a10f61a8124b1da7.dll: C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs
+
+C:\Users\gebab\Desktop\WallServer\rust\novaCrypto\target\debug\deps\thiserror_impl-a10f61a8124b1da7.d: C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs
+
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs:
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs:
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs:
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs:
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs:
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs:
+C:\Users\gebab\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs:
